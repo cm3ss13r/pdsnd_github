@@ -46,9 +46,9 @@ def get_filters():
         (str) day -name of the day(s) of week to filter
     """
 
-    print("\n\nLet's explore some US bikeshare data!\n")
+    print("\n\nLet us explore some US bikeshare data!\n")
 
-    print("To exit the program, at any time, type end.\n")
+    print("Type END, at any time, to exit the program.\n")
 
     while True:
         city = choice("\nWhat city/cities do you want do select data, "
