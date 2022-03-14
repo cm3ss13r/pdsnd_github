@@ -11,11 +11,11 @@ Learn the programming fundamentals required for a career in data science using P
 Used Python to answer analytical questions about bikeshare trip data collected from three US cities, wrote code to collect the data, computed descriptive statistics, and created an interactive experience in the terminal that presents the answers to the questions.
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+bikeshare.py,
+chicago.csv,
+new_york_city.csv,
+washington.csv,
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.github.com/en
 
